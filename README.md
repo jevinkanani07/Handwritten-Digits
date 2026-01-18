@@ -22,8 +22,7 @@ In this project, a machine learning model is trained to solve this problem.
 
 ## Tools Used
 - Python  
-- NumPy  
-- Pandas  
+- NumPy   
 - Matplotlib  
 - Scikit-learn  
 - Jupyter Notebook  
